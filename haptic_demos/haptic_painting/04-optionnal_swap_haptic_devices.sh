@@ -1,0 +1,1 @@
+redis-cli set sai2::ChaiHapticDevice::swapDevices 1

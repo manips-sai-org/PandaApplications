@@ -1,0 +1,1 @@
+sudo sh /home/demo/Codes/sai2.0/drivers/FrankaPanda/redis_driver/launch_redis_server.sh
